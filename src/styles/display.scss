@@ -1,0 +1,14 @@
+.display {
+  width: 200px;
+  border-radius: 6px;
+  padding: 5px;
+  box-shadow: 0 2px 5px rgb(223, 217, 217);
+  text-align: end;
+  
+  .digits {
+    padding-right: 5px;
+    font-size: 3em;
+    background-color: rgb(243, 244, 246);
+    border-radius: 8px;
+  }
+}

@@ -1,0 +1,17 @@
+.equal-block {
+  border-radius: 6px;
+  padding: 5px;
+  box-shadow: 0 2px 5px rgb(223, 217, 217);
+  text-align: center;
+  
+  .equal {
+    width: 200px;
+    height: 60px;
+    line-height: 60px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(0, 70, 209);
+    border-radius: 8px;
+    cursor: pointer;
+  }
+}

@@ -1,0 +1,20 @@
+.operation-buttons {
+  display: flex;
+  width: 200px;
+  justify-content: space-between;
+  border-radius: 6px;
+  padding: 5px;
+  box-shadow: 0 2px 5px rgb(223, 217, 217);
+
+  .item-operation {
+    width: 45px;
+    height: 45px;
+    font-weight: bold;
+    align-items: center;
+    line-height: 45px;
+    text-align: center;
+    border: 1px solid rgb(223, 217, 217);
+    border-radius: 8px;
+    cursor: pointer;
+  }
+}
